@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0015-3sum) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 ## Binary Search
 |  |
 | ------- |
@@ -28,4 +29,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0693-binary-number-with-alternating-bits) |
+## String
+|  |
+| ------- |
+| [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 <!---LeetCode Topics End-->
