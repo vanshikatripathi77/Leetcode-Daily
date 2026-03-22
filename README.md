@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 ## Dynamic Programming
 |  |
@@ -52,4 +53,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
