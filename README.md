@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0994-rotting-oranges](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 ## Two Pointers
 |  |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0547-number-of-provinces) |
+| [0994-rotting-oranges](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -113,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0547-number-of-provinces) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
