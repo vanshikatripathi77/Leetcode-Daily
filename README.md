@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
+| [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Dynamic Programming
 |  |
@@ -150,4 +151,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0881-boats-to-save-people](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0948-bag-of-tokens) |
+| [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
 <!---LeetCode Topics End-->
