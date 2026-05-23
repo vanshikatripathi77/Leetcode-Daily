@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 ## Stack
 |  |
 | ------- |
@@ -156,4 +157,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
