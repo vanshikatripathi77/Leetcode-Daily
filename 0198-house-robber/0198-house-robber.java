@@ -1,20 +1,16 @@
 class Solution {
     public int rob(int[] nums) {
         int n=nums.length;
-        int[] dp=new int[n+1];
-        Arrays.fill(dp,-1);
-        return func(n-1,nums,dp);
-    }
-    public int func(int n,int[] nums,int[] dp){
-        if(n<0){
-            return 0;
+        int[] dp=new int[n];
+        dp[0]=nums[0];
+        for(int i=1;i<n;i++){
+            int take=nums[i];
+            if(i>1){
+                take+=dp[i-2];
+            }
+            int nontake=dp[i-1];
+            dp[i]=Math.max(take,nontake);
         }
-        if(dp[n]!=-1){
-            return dp[n];
-        }
-        int take=nums[n]+func(n-2,nums,dp);
-        int nontake=func(n-1,nums,dp);
-        dp[n]=Math.max(take,nontake);
-        return dp[n];
+        return dp[n-1];
     }
 }
