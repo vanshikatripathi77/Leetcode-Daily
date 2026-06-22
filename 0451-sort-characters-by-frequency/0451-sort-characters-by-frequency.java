@@ -1,29 +1,26 @@
 class Solution {
     public String frequencySort(String s) {
-        HashMap<Character,Integer> unsortedmap=new HashMap<>();
-        for(int i=0;i<s.length();i++){
-            unsortedmap.put(s.charAt(i),unsortedmap.getOrDefault(s.charAt(i),0)+1);
+        HashMap<Character,Integer> hp=new HashMap<>();
+        for(char ch:s.toCharArray()){
+            hp.put(ch,hp.getOrDefault(ch,0)+1);
         }
-        Map<Character,Integer> sortedMap=unsortedmap.entrySet()
+        LinkedHashMap<Character, Integer> sortedMap = hp.entrySet()
         .stream()
-        .sorted(Map.Entry.comparingByValue
-        (Comparator.reverseOrder()))
+        .sorted(Map.Entry.<Character, Integer>comparingByValue().reversed())
         .collect(Collectors.toMap(
             Map.Entry::getKey,
             Map.Entry::getValue,
-            (e1,e2)->e1,
-            LinkedHashMap::new 
+            (e1, e2) -> e1,
+            LinkedHashMap::new
         ));
-        StringBuilder sb=new StringBuilder();
-        for(Map.Entry<Character,Integer>entry:sortedMap.entrySet()){
-            Character ch=entry.getKey();
-            Integer value=entry.getValue();
-            while(value!=0){
-                sb.append(ch);
-                value--;
+        StringBuilder str=new StringBuilder();
+        for(Map.Entry<Character,Integer> e:sortedMap.entrySet()){
+            int c=e.getValue();
+            while(c!=0){
+                str.append(e.getKey());
+                c--;
             }
         }
-        String res=sb.toString();
-        return res;
+        return str.toString();
     }
 }
