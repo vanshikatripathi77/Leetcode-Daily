@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Two Pointers
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0948-bag-of-tokens) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Divide and Conquer
 |  |
@@ -165,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0948-bag-of-tokens) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
 ## Math
 |  |
