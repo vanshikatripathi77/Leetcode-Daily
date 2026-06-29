@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 ## Two Pointers
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 ## Dynamic Programming
 |  |
 | ------- |
