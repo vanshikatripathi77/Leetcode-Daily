@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0016-3sum-closest) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0141-linked-list-cycle](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0141-linked-list-cycle) |
