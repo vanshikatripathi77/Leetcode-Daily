@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-bag-of-tokens](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0948-bag-of-tokens) |
 | [0994-rotting-oranges](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1004-max-consecutive-ones-iii) |
+| [1331-rank-transform-of-an-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0881-boats-to-save-people](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0881-boats-to-save-people) |
 | [0948-bag-of-tokens](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0948-bag-of-tokens) |
+| [1331-rank-transform-of-an-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+| [1331-rank-transform-of-an-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 ## Sliding Window
 |  |
 | ------- |
