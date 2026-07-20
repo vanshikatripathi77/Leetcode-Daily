@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0198-house-robber) |
+| [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0206-reverse-linked-list) |
+| [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -192,11 +194,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 ## Combinatorics
 |  |
 | ------- |
