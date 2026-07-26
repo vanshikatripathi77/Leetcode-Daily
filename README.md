@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2136-earliest-possible-day-of-full-bloom](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2136-earliest-possible-day-of-full-bloom) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0190-reverse-bits](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0190-reverse-bits) |
 | [0693-binary-number-with-alternating-bits](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0693-binary-number-with-alternating-bits) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## String
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Memoization
 |  |
@@ -208,11 +211,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0062-unique-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0039-combination-sum) |
 | [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
 |  |
 | ------- |
@@ -221,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
