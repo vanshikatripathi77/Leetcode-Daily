@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0046-permutations) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0039-combination-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0046-permutations) |
 | [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Tree
