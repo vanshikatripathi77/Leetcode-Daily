@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0151-reverse-words-in-a-string) |
+| [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0547-number-of-provinces](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 ## Breadth-First Search
 |  |
@@ -205,4 +207,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0062-unique-paths) |
+## Backtracking
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
+## Binary Tree
+|  |
+| ------- |
+| [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 <!---LeetCode Topics End-->
