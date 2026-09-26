@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0046-permutations) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0042-trapping-rain-water) |
 | [0062-unique-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 ## Stack
