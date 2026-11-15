@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0200-number-of-islands) |
+| [0416-partition-equal-subset-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0496-next-greater-element-i](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0540-single-element-in-a-sorted-array) |
 | [0733-flood-fill](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0733-flood-fill) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0198-house-robber) |
+| [0416-partition-equal-subset-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 ## Stack
 |  |
@@ -260,4 +262,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0416-partition-equal-subset-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 <!---LeetCode Topics End-->
