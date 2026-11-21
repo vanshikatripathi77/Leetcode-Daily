@@ -1,38 +1,32 @@
 class Solution {
     public boolean canPartition(int[] nums) {
-        int n=nums.length;
-        int s=0;
-        for(int i:nums){
-            s+=i;
+        int sum=0;
+        for(int x:nums){
+            sum+=x;
         }
-        if(s%2!=0){
+        if(sum%2!=0){
             return false;
         }
-        s=s/2;
-        Boolean[][] dp=new Boolean[n+1][s+1];
-        return f(0,s,nums,n,dp);
+        sum=sum/2;
+        int n=nums.length;
+        Boolean[][] dp=new Boolean[n][sum+1];
+        return f(n-1,sum,nums,dp);
     }
-    public boolean f(int i,int s,int[] nums,int n,Boolean[][] dp){
-        if(s==0){
+    public boolean f(int i,int k,int[] nums,Boolean[][] dp){
+        if(k==0){
             return true;
         }
-        if(i==n){
-            if(s==0){
-                return true;
-            }
-            else {
-                return false;
-            }
+        if(i==0){
+            return nums[0]==k;
         }
-        if(dp[i][s]!=null){
-            return dp[i][s];
+        if(dp[i][k]!=null){
+            return dp[i][k];
         }
-        boolean nontake=f(i+1,s,nums,n,dp);
+        boolean nontake=f(i-1,k,nums,dp);
         boolean take=false;
-        if(s>=nums[i]){
-            take=f(i+1,s-nums[i],nums,n,dp);
+        if(k>=nums[i]){
+            take=f(i-1,k-nums[i],nums,dp);
         }
-        return dp[i][s]=nontake||take;
-
+        return dp[i][k]=nontake || take;
     }
 }
