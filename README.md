@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0142-linked-list-cycle-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0496-next-greater-element-i) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1331-rank-transform-of-an-array) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Sliding Window
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0733-flood-fill) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
@@ -284,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -299,6 +303,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0145-binary-tree-postorder-traversal) |
 | [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0543-diameter-of-binary-tree) |
+| [0863-all-nodes-distance-k-in-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
