@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
+| [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
 | ------- |
@@ -327,4 +329,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0543-diameter-of-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
