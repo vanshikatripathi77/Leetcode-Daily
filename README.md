@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 ## Stack
 |  |
 | ------- |
