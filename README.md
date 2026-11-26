@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0257-binary-tree-paths) |
 | [0443-string-compression](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0451-sort-characters-by-frequency) |
+| [0516-longest-palindromic-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [0696-count-binary-substrings](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0696-count-binary-substrings) |
 | [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 | [1328-break-a-palindrome](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1328-break-a-palindrome) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0198-house-robber) |
 | [0416-partition-equal-subset-sum](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/vanshikatripathi77/Leetcode-Daily/tree/master/1143-longest-common-subsequence) |
 ## Stack
 |  |
